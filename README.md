@@ -13,7 +13,7 @@
     <h2>Quick Start</h2>
     <ol>
         <li><strong>Clone the repo:</strong>
-            <pre><code>git clone https://github.com/your-username/threejs-practice.git</code></pre>
+            <pre><code>git clone https://github.com/vishwajit022/threejs-practice.git</code></pre>
         </li>
         <li><strong>Navigate to the project:</strong>
             <pre><code>cd threejs-practice</code></pre>
