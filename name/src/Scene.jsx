@@ -11,6 +11,8 @@ function Scene() {
   return (
     <>
       <OrbitControls />
+      <gridHelper />
+      <axesHelper args={[4]} />
       <mesh ref={cubeRef} position-x={3}>
         <boxGeometry />
         <meshBasicMaterial color="green" />
