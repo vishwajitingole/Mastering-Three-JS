@@ -4,7 +4,7 @@ import { OrbitControls } from "@react-three/drei";
 
 function Scene() {
   const cubeRef = useRef();
-  const planeRef = useRef();
+
   useFrame((state, delta) => {
     cubeRef.current.rotation.y += delta;
   });
