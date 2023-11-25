@@ -16,7 +16,7 @@
             <pre><code>git clone https://github.com/vishwajit022/threejs-practice.git</code></pre>
         </li>
         <li><strong>Navigate to the project:</strong>
-            <pre><code>cd threejs-practice</code></pre>
+            <pre><code>cd name</code></pre>
         </li>
         <li><strong>Install dependencies:</strong>
             <pre><code>npm install</code></pre>
